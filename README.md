@@ -11,3 +11,5 @@ A dark/light mode toggle.
 Button highlighting to indicate the active state.
 Animated lap times.
 Local storage to remember the stopwatch state, including elapsed time, dark mode setting, and lap times.
+
+![image](https://github.com/Vinit7796/PRODIGY_WD_02/assets/139846053/e6c874bd-70f0-4c35-901a-c6085505232a)
